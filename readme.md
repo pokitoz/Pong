@@ -24,4 +24,5 @@ Big file +600lines (can be broken into multiple one)
 The parameters should be generic and the game can be run on different screens if those settings are changed accordingly.
 
 This has been developed to run on a _FPGA4U_ (https://fpga4u.epfl.ch/wiki/Main_Page)
-The code can be simulated using _nios2sim.jar_
+
+The code can be simulated using _nios2sim.jar_ (http://lap.epfl.ch/archord)
