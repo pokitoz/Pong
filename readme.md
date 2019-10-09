@@ -12,7 +12,6 @@ Start the clock and use the buttons UP/DOWN to move each paddle.
 Possibility to run it on a FPGA by setting the input buttons and the LED screen.
 
 Need improvements in:
-* TODO: Start randomly at the middle of the screen
 * TODO: Make more random moves
 * TODO: Print the score
 
