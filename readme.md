@@ -4,6 +4,8 @@ PONG
 Implementation of the pong game without software.
 https://en.wikipedia.org/wiki/Pong
 
+![Pong](pong.png)
+
 -----
 
 Use _LOGISIM_ (https://sourceforge.net/projects/circuit/files/latest/download) to play with it.
@@ -13,7 +15,6 @@ Possibility to run it on a FPGA by setting the input buttons and the LED screen.
 
 Need improvements in:
 * TODO: Make more random moves
-* TODO: Print the score
 
 Start the clock signal *clk* by selecting the clock, goto the menubar and select *Simulate*, *Tick Frequency*, *Tick Enabled*.
 Set the Start signal to 1 for a clock cycle and the game should start.
